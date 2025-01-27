@@ -1,0 +1,42 @@
+Table 1. Age Control Points for Sediment Cores NIOP905 and 74KL								
+Sediment Core/Depth 								
+in Core, cm	Uncorrected AMS 14C Ages, years B.P.	Analytical Error (+/-1-sigma),a years	DeltaR,b years	DeltaR Error, years 	Calibrated Calendar Ages (2-sigma ranges), cal years B.P.	Calibrated Calendar Ages (1-sigma ranges), cal years B.P.	Mean Calibrated Calendar Ages Used for the Age Models, cal years B.P.	Reference for Original AMS 14C Data 
+NIOP 905								
+  20	1410	NA	190	+/-25	664-890	691-820	755.5	Ivanova [1999]
+  40	2420	NA	190	+/-25	1692-1972	1760-1905	1832.5	Ivanova [1999]  
+  80	4050	NA	190	+/-25	3656-3977	3728-3894	3811.0	Ivanova [1999]
+  120	5410	NA	190	+/-25	5458-5703	5520-5645	5582.5	Ivanova [1999]
+  167-167.5c	6653	50	190	+/-25	6812-7135	6874-7042	6958.0	Jung et al. [2002]
+  183-183.5c	7125	50	190	+/-25	7332-7552	7398-7501	7449.5	Jung et al. [2002]
+  200	7620	45	190	+/-25	7776-7997	7839-7944	7891.5	Ivanova [1999]
+  249.5-251c	8620	50	190	+/-25	8892-9240	8972-9117	9044.5	Jung et al. [2002]
+  291 -291.5c	9748	50	190	+/-25	10261-10538	10355-10505	10430.0	Jung et al. [2002]
+  313.75	10371	47	190	+/-25	11101-11256	11146-11214	11180.0	Ivanochko [2005]
+  320	10500	NA	190	+/-25	11174-11433	11210-11346 	11278.0	Ivanova [1999]
+  340	11100	NA	190	+/-25	12236-12709	12434-12632	12533.0	Ivanova [1999]
+  360	12000	NA	190	+/-25	13162-13383	13215-13314 	13264.5	Ivanova [1999]
+  361.25	12131	62	190	+/-25	13247-13556	13297-13431	13364.0	Ivanochko [2005]
+  376.25	12895	52	190	+/-25	14002-14602	14044-14287	14165.5	Ivanochko [2005] 
+  391.25	13975	55	190	+/-25	15518-6300	15688-16067	15877.5	Ivanochko [2005]
+  400	14190	NA	190	+/-25	15811-16593	15978-16366	16172.0	Ivanova [1999]
+  411.25	14701	61	190	+/-25	16385-17197	16620-17029	16824.5	Ivanochko [2005]
+  480.25	20580	114	190	+/-25	23598-24298	23778-24109	23943.5	Ivanochko [2005]
+
+74KL								
+  7.5	1230	60	190	+/-25	509-711	553-656	604.5	Sirocko et al. [1993]
+  35	3350	100	190	+/-25	2736-3229	2825-3096	2960.5	Sirocko et al. [1993]
+  55	5540	90	190	+/-25	5539-5922	5623-5832	5727.5	Sirocko et al. [1993]
+  70	7850	90	190	+/-25	7941-8320	8004-8213 	8108.5	Sirocko et al. [1993]
+  80	8700	120	190	+/-25	8831-9440	8989-9298	9143.5	Sirocko et al. [1993]
+  97.5	10580	120	190	+/-25	11177-11927	11245-11670 	11457.5	Sirocko et al. [1993]
+  115	11780	130	190	+/-25	12881-13285	12962-13189	13075.5	Sirocko et al. [1993]
+  127.5	13060	150	190	+/-25	14049-15064	14220-14816	14518.0	Sirocko et al. [1993]
+  142.5	14200	170	190	+/-25	15617-16763	15889-16471	16180.0	Sirocko et al. [1993]
+  160	15880	170	190	+/-25	18096-18896	18501-18855	18678.0	Sirocko et al. [1993]
+  165	16260	170	190	+/-25	18668-19244	18781-19033	18907.0	Sirocko et al. [1993]
+  180	17130	180	190	+/-25	19344-20072	19509-19846	19677.5	Sirocko et al. [1993]
+  197.5	20580	260	190	+/-25	22990-24594	23590-24288	23939.0	Sirocko et al. [1993]
+
+aNA indicates that analytical errors are not available for these data. Therefore we assumed +/-50 years for the analytical determination.								
+bThe regional reservoir age (DeltaR) for the western Arabian Sea was used according to Southon et al. [2002].								
+cMean values were used for the age model.								
