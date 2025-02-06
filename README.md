@@ -1,2 +1,4 @@
-# nutrient-effect-on-TEX
-This is a repository for a paper investigating the nutrient effect of TEX86 proxy.
+# A nutrient effect on the TEX<sub>86</sub> paleotemperature proxy
+This is a repository for "A nutrient effect on the TEX<sub>86</sub> paleotemperature proxy" published in XXX.
+
+
