@@ -1,0 +1,5 @@
+pdf/
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+**/Visualization_for_presentations.ipynb_checkpoints
+spreadsheet/published_data/
