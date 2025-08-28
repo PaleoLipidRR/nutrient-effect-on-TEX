@@ -1,5 +1,13 @@
+# PDF files
 pdf/
+
+# Jupyter notebook checkpoints
 .ipynb_checkpoints/
 */.ipynb_checkpoints/*
+**/.ipynb_checkpoints/
+
+# Specific notebook checkpoint (if needed)
 **/Visualization_for_presentations.ipynb_checkpoints
-spreadsheet/published_data/
+
+# Published data (note: your directory is "spreadsheets" not "spreadsheet")
+spreadsheets/published_data/
