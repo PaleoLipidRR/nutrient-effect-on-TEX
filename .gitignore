@@ -8,6 +8,7 @@ pdf/
 
 # Specific notebook checkpoint (if needed)
 **/Visualization_for_presentations.ipynb_checkpoints
+**/viz4slides
 
 # Published data (note: your directory is "spreadsheets" not "spreadsheet")
 spreadsheets/published_data/
