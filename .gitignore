@@ -13,4 +13,4 @@ pdf/
 # Published data (note: your directory is "spreadsheets" not "spreadsheet")
 spreadsheets/published_data/
 ncfiles/external
-figures/Visualization_for_presentations/*
+figures/Visualization_for_presentations/
