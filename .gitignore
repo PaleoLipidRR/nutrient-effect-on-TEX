@@ -1,16 +1,16 @@
-# PDF files
-pdf/
+# # PDF files
+# pdf/
 
-# Jupyter notebook checkpoints
-.ipynb_checkpoints/
-*/.ipynb_checkpoints/*
-**/.ipynb_checkpoints/
+# # Jupyter notebook checkpoints
+# .ipynb_checkpoints/
+# */.ipynb_checkpoints/*
+# **/.ipynb_checkpoints/
 
-# Specific notebook checkpoint (if needed)
-**/Visualization_for_presentations.ipynb_checkpoints
-**/viz4slides
+# # Specific notebook checkpoint (if needed)
+# **/Visualization_for_presentations.ipynb_checkpoints
+# **/viz4slides
 
-# Published data (note: your directory is "spreadsheets" not "spreadsheet")
-spreadsheets/published_data/
-ncfiles/external
-figures/Visualization_for_presentations/
+# # Published data (note: your directory is "spreadsheets" not "spreadsheet")
+# spreadsheets/published_data/
+# ncfiles/external
+# figures/Visualization_for_presentations/

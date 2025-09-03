@@ -1,4 +1,4 @@
-name: nutrient-effect-on-tex
+name: texas-env
 channels:
   - conda-forge
 channel_priority: strict
@@ -37,6 +37,10 @@ dependencies:
   - cmocean
   - plotly
   - pygmt
+  ### Google Map/Google Earth
+  - geetools
+  - simplekml
+  - salem
   
   # --- Geo Stack (Complex Dependencies) ---
   # NOTE: shapely<2 is a major constraint.
