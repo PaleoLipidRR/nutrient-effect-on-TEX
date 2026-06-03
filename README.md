@@ -7,19 +7,19 @@ This is a repository for "A nutrient effect on the TEX<sub>86</sub> paleotempera
 
 ## Overview
 
-The TEX<sub>86</sub> proxy is a widely used organic paleothermometer based on the ring distributions of isoprenoid glycerol dialkyl glycerol tetraethers (GDGTs) produced by marine ammonia-oxidizing archaea (Thaumarchaeota). Because these archaea are also sensitive to nutrient availability — specifically nitrate — TEX<sub>86</sub>-based temperature reconstructions may carry a non-thermal nutrient bias.
+The TEX<sub>86</sub> proxy is a widely used organic paleothermometer based on the ring distributions of isoprenoid glycerol dialkyl glycerol tetraethers (GDGTs) produced by marine ammonia-oxidizing archaea (AOA) (*Nitrosospharales*; formerly Thaumarchaeota). Because these archaea are also sensitive to nutrient availability — as shown in culture studies investigating growth rate/growth phase — TEX<sub>86</sub>-based temperature reconstructions may carry a non-thermal nutrient bias.
 
-This study demonstrates, using a global coretop compilation combined with World Ocean Atlas (WOA23) and Copernicus Marine (CMEMS) ocean products, that **thermocline nitrate concentrations introduce a systematic, regionally variable offset in TEX<sub>86</sub>**. Two paleoceanographic case studies (Arabian Sea and Tasman Sea) illustrate how this nutrient effect can affect downcore temperature reconstructions.
+This study demonstrates, using a global coretop compilation combined with World Ocean Atlas (WOA23) and Copernicus Marine (CMEMS) ocean products, that **thermocline nitrate concentrations introduce a systematic, regionally variable offset in TEX<sub>86</sub>** and can be used as a practical proxy to evaluate *nutrient effect* on lipid biosynthesis on marine AOA. Two paleoceanographic case studies (Arabian Sea and Tasman Sea) illustrate how this nutrient effect can affect downcore temperature reconstructions.
 
 ## Citation
 
 If you use this code or data, please cite:
 
-> Rattanasriampaipong, R., Tierney, J. E., & Abell, J. T. (2025). A nutrient effect on the TEX<sub>86</sub> paleotemperature proxy. *Geophysical Research Letters*.
+> Rattanasriampaipong, R., Tierney, J. E., Abell, J. T., & Gilmore, L. D. (2025). A nutrient effect on the TEX<sub>86</sub> paleotemperature proxy. *Geophysical Research Letters*.
 
 ### Supplementary dataset (Zenodo)
 
-> Rattanasriampaipong, R., Tierney, J., & Abell, J. (2025). *Supplementary Data for 'A nutrient effect on the TEX86 paleotemperature proxy'* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14806962
+> Rattanasriampaipong, R., Tierney, J., Abell, J., & Gilmore, L. D. (2025). *Supplementary Data for 'A nutrient effect on the TEX86 paleotemperature proxy'* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14806962
 
 ## Repository structure
 
